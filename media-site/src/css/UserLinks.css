@@ -1,0 +1,32 @@
+#userLinks {
+  width: 400px;
+  height: 250px;
+  border: black 2px solid;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  z-index: -2;
+}
+
+img {
+  width: 100px;
+  height: auto;
+  float: left;
+}
+
+#userColor {
+  position: absolute;
+  background-color: rgb(157, 157, 248);
+  height: 50%;
+  width: 100%;
+  z-index: -1;
+}
+
+#links {
+  position: absolute;
+  bottom: 20px;
+  text-align: center;
+}
+
+.link {
+  padding-left: 60px;
+}
