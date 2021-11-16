@@ -1,7 +1,6 @@
 import React from 'react';
 import '../css/Feed.css';
 import Post from './Post.js';
-import img from './img'
 import tomGuy from '../img/tom.jpg';
 import sally from '../img/sally.png';
 import veruca from '../img/veruca.png';
